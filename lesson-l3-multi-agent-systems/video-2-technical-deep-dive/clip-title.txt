@@ -1,0 +1,1 @@
+Multi-Agent Architectures & Collaboration Patterns: Role Assignment, Delegation, and Handoffs in Practice
